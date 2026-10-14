@@ -1,4 +1,4 @@
-# Reporting Tool - SAÉ 1.05
+# File management Tool - SAÉ 1.05
 
 Outil de reporting et d'analyse d'espace disque : il parcourt un répertoire, identifie les fichiers les plus volumineux, les affiche dans une interface graphique (camembert + légendes interactives) et permet de générer un script PowerShell de suppression des fichiers sélectionnés.
 
